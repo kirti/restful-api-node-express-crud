@@ -3,8 +3,11 @@ simple project with node and express to create restful api's (CRUD)
 
 # How to start Project with below simple steps 
  npm install 
+ 
  npm run start 
+ 
  open browser and run below url
+ 
  http://localhost:8000/
 
 # server.js 
